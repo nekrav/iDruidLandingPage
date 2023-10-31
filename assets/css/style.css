@@ -1060,6 +1060,8 @@ section {
 
 .pricing img {
   padding: 30px 40px;
+  /* width: 60px;
+  height: 100px; */
 }
 
 .pricing ul {
